@@ -31,4 +31,7 @@ private int SPLASH_TIME_OUT=2000;
        int ii=5;
        int iii=i + ii;
        }
+
+
+       String name="Bhagirathi";
    }
