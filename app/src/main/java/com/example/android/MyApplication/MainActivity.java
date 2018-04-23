@@ -35,7 +35,7 @@ private int SPLASH_TIME_OUT=2000;
 
        String name="Bhagirathi";
    boolean value=true;
-   int item=234;
-   int item2=343;
-   int item3=984;
+   int item=100;
+   int item2=200;
+   int item3=300;
    }
