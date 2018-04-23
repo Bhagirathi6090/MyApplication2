@@ -34,4 +34,5 @@ private int SPLASH_TIME_OUT=2000;
 
 
        String name="Bhagirathi";
+   boolean value=true;
    }
