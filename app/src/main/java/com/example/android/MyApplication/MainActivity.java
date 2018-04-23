@@ -26,4 +26,9 @@ private int SPLASH_TIME_OUT=2000;
 
 
        }
+       public void method(){
+       int i=4;
+       int ii=5;
+       int iii=i + ii;
+       }
    }
