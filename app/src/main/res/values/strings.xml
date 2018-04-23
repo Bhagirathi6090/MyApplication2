@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="category_phrases">category_phrases</string>
+    <string name="numbers">Numbers</string>
+    <string name="object_words">Object Words</string>
+    <string name="vocal_words">Vocal Words</string>
+    <string name="familywords">FamilyWords</string>
+
+</resources>
