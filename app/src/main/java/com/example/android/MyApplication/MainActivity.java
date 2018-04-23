@@ -27,7 +27,7 @@ private int SPLASH_TIME_OUT=2000;
 
        }
        public void method(){
-       int i=4;
+       int i=7;
        int ii=5;
        int iii=i + ii;
        }
@@ -36,6 +36,5 @@ private int SPLASH_TIME_OUT=2000;
        String name="Bhagirathi";
    boolean value=true;
    int item=100;
-   int item2=200;
-   int item3=300;
+
    }
